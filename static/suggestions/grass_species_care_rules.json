@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "region": "United States",
+    "source": [
+      "US Land-Grant University Extensions",
+      "USDA NRCS",
+      "Wikipedia (species reference only)"
+    ],
+    "lastUpdated": "2025-01-01"
+  },
+
+  "fallback": {
+    "name": "Unknown Turfgrass",
+    "seasonType": "unknown",
+    "message": "Grass species could not be confidently identified. Recommendations are conservative and safe for most lawns.",
+    "care": {
+      "mowHeight": "3–4 in",
+      "watering": "Deep, infrequent",
+      "fertility": "Low",
+      "shadeTolerance": "Unknown",
+      "winterBehavior": "May go dormant or thin",
+      "notes": [
+        "Avoid aggressive fertilization.",
+        "Focus on soil coverage and erosion prevention."
+      ]
+    }
+  },
+
+  "species": {
+
+    "bermudagrass": {
+      "commonName": "Bermuda Grass",
+      "scientificName": "Cynodon dactylon",
+      "seasonType": "warm",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cynodon_dactylon",
+      "care": {
+        "mowHeight": "1–1.5 in",
+        "watering": "Deep, infrequent",
+        "fertility": "Moderate–high during summer",
+        "shadeTolerance": "Low",
+        "winterBehavior": "Dormant, turns yellow or brown",
+        "notes": [
+          "Aggressive spreader via stolons and rhizomes",
+          "Excellent erosion control when dense",
+          "Poor shade tolerance"
+        ]
+      }
+    },
+
+    "st_augustinegrass": {
+      "commonName": "St. Augustine Grass",
+      "scientificName": "Stenotaphrum secundatum",
+      "seasonType": "warm",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stenotaphrum_secundatum",
+      "care": {
+        "mowHeight": "3–4 in",
+        "watering": "Moderate",
+        "fertility": "Moderate",
+        "shadeTolerance": "High",
+        "winterBehavior": "Semi-dormant in cool weather",
+        "notes": [
+          "Excellent shade tolerance",
+          "Prefers warm, humid climates",
+          "Sensitive to cold stress"
+        ]
+      }
+    },
+
+    "zoysiagrass": {
+      "commonName": "Zoysia Grass",
+      "scientificName": "Zoysia spp.",
+      "seasonType": "warm",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zoysia",
+      "care": {
+        "mowHeight": "1–2 in",
+        "watering": "Low–moderate",
+        "fertility": "Low",
+        "shadeTolerance": "Moderate",
+        "winterBehavior": "Dormant, straw-colored",
+        "notes": [
+          "Dense turf reduces erosion",
+          "Slow establishment",
+          "Low nutrient requirements"
+        ]
+      }
+    },
+
+    "centipedegrass": {
+      "commonName": "Centipede Grass",
+      "scientificName": "Eremochloa ophiuroides",
+      "seasonType": "warm",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eremochloa_ophiuroides",
+      "care": {
+        "mowHeight": "1.5–2 in",
+        "watering": "Low",
+        "fertility": "Very low",
+        "shadeTolerance": "Moderate",
+        "winterBehavior": "Dormant, pale yellow",
+        "notes": [
+          "Low-maintenance grass",
+          "Sensitive to over-fertilization",
+          "Prefers acidic soils"
+        ]
+      }
+    },
+
+    "bahiagrass": {
+      "commonName": "Bahia Grass",
+      "scientificName": "Paspalum notatum",
+      "seasonType": "warm",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paspalum_notatum",
+      "care": {
+        "mowHeight": "3–4 in",
+        "watering": "Low",
+        "fertility": "Low",
+        "shadeTolerance": "Low",
+        "winterBehavior": "Dormant in cool climates",
+        "notes": [
+          "Excellent drought tolerance",
+          "Deep root system",
+          "Coarse texture"
+        ]
+      }
+    },
+
+    "kentucky_bluegrass": {
+      "commonName": "Kentucky Bluegrass",
+      "scientificName": "Poa pratensis",
+      "seasonType": "cool",
+      "wikipedia": "https://en.wikipedia.org/wiki/Poa_pratensis",
+      "care": {
+        "mowHeight": "2.5–3.5 in",
+        "watering": "Moderate–high",
+        "fertility": "Moderate",
+        "shadeTolerance": "Low–moderate",
+        "winterBehavior": "Remains green into fall",
+        "notes": [
+          "Spreads via rhizomes",
+          "Good self-repair capability",
+          "Shallow roots in heat"
+        ]
+      }
+    },
+
+    "tall_fescue": {
+      "commonName": "Tall Fescue",
+      "scientificName": "Festuca arundinacea",
+      "seasonType": "cool",
+      "wikipedia": "https://en.wikipedia.org/wiki/Festuca_arundinacea",
+      "care": {
+        "mowHeight": "3–4 in",
+        "watering": "Moderate",
+        "fertility": "Moderate",
+        "shadeTolerance": "High",
+        "winterBehavior": "Green through winter",
+        "notes": [
+          "Deep root system",
+          "Excellent drought tolerance",
+          "Good for erosion control"
+        ]
+      }
+    },
+
+    "fine_fescue": {
+      "commonName": "Fine Fescue",
+      "scientificName": "Festuca spp.",
+      "seasonType": "cool",
+      "wikipedia": "https://en.wikipedia.org/wiki/Festuca",
+      "care": {
+        "mowHeight": "2–3 in",
+        "watering": "Low",
+        "fertility": "Low",
+        "shadeTolerance": "Very high",
+        "winterBehavior": "Green through winter",
+        "notes": [
+          "Excellent low-input turf",
+          "Poor heat tolerance",
+          "Ideal for shaded lawns"
+        ]
+      }
+    },
+
+    "perennial_ryegrass": {
+      "commonName": "Perennial Ryegrass",
+      "scientificName": "Lolium perenne",
+      "seasonType": "cool",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lolium_perenne",
+      "care": {
+        "mowHeight": "2–3 in",
+        "watering": "Moderate",
+        "fertility": "Moderate",
+        "shadeTolerance": "Low",
+        "winterBehavior": "Green in mild winters",
+        "notes": [
+          "Fast germination",
+          "Often used in seed blends",
+          "Poor heat tolerance"
+        ]
+      }
+    }
+  }
+}
