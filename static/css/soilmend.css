@@ -79,18 +79,15 @@ p {
   margin-bottom: 1.25rem;
 }
 
+#lawnPreview img{
+  display: none;
+}
+
 .preview-grid {
   display: flex;
   gap: 12px;
   margin-top: 10px;
   flex-wrap: wrap;
-}
-.preview-grid img {
-  width: 140px;
-  height: 140px;
-  object-fit: cover;
-  border-radius: 10px;
-  border: 1px solid #ddd;
 }
 .grid {
   display: grid;
@@ -184,7 +181,7 @@ footer p, footer a {
  list-style: none;
 }
 
-.grass-card img {
+.preview-grid img, .grass-card img {
   height: 200px;
 }
 
