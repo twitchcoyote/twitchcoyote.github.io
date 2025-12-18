@@ -115,8 +115,6 @@ p {
 #demo img {
   max-width: 300px;
   border-radius: 12px;
-  margin-top: 20px;
-  display: none;
 }
 
 #demo-result {
@@ -184,6 +182,10 @@ footer p, footer a {
 
 .grass-card ul li {
  list-style: none;
+}
+
+.grass-card img {
+  height: 200px;
 }
 
 .grass-rules-card {
