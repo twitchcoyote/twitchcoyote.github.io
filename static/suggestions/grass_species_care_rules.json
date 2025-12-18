@@ -29,7 +29,7 @@
 
   "species": {
 
-    "bermudagrass": {
+    "bermuda": {
       "commonName": "Bermuda Grass",
       "scientificName": "Cynodon dactylon",
       "seasonType": "warm",
@@ -48,7 +48,7 @@
       }
     },
 
-    "st_augustinegrass": {
+    "st_augustine": {
       "commonName": "St. Augustine Grass",
       "scientificName": "Stenotaphrum secundatum",
       "seasonType": "warm",
@@ -67,7 +67,7 @@
       }
     },
 
-    "zoysiagrass": {
+    "zoysia": {
       "commonName": "Zoysia Grass",
       "scientificName": "Zoysia spp.",
       "seasonType": "warm",
@@ -86,7 +86,7 @@
       }
     },
 
-    "centipedegrass": {
+    "centipede": {
       "commonName": "Centipede Grass",
       "scientificName": "Eremochloa ophiuroides",
       "seasonType": "warm",
@@ -105,7 +105,7 @@
       }
     },
 
-    "bahiagrass": {
+    "bahia": {
       "commonName": "Bahia Grass",
       "scientificName": "Paspalum notatum",
       "seasonType": "warm",
@@ -124,7 +124,7 @@
       }
     },
 
-    "kentucky_bluegrass": {
+    "kentucky_blue": {
       "commonName": "Kentucky Bluegrass",
       "scientificName": "Poa pratensis",
       "seasonType": "cool",
@@ -181,7 +181,7 @@
       }
     },
 
-    "perennial_ryegrass": {
+    "perennial_rye": {
       "commonName": "Perennial Ryegrass",
       "scientificName": "Lolium perenne",
       "seasonType": "cool",
