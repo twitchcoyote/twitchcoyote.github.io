@@ -177,6 +177,13 @@ footer p, footer a {
   box-shadow:0 4px 10px rgba(0,0,0,.08);
 }
 
+
+.grass-card ul {
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
 .grass-card ul li {
  list-style: none;
 }
