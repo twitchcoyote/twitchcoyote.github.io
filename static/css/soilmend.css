@@ -535,6 +535,14 @@ footer p, footer a {
   .flow::after {
     display: none;
   }
+  section {
+    padding: 20px;
+  }
+  svg {
+    width: 50%;
+    height: 50%;
+  }
+
 }
 
 @media (max-width: 600px) {
@@ -544,4 +552,9 @@ footer p, footer a {
   .segmentation-bar div span {
     font-size: 10px;
   }
+  svg {
+    width: 30%;
+    height: 30%;
+  }
+
 }
